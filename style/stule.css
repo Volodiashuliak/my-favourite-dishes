@@ -1,0 +1,28 @@
+.list{
+    gap: 31px;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+
+.item{
+    text-align: center;
+    border: 2px dashed red;
+width: 300px;
+}
+body{
+    background-image: linear-gradient(red, green);
+}
+
+img{
+    display: block ;
+max-width: 100%;}
+
+h1{
+text-align: center;
+text-transform: uppercase ;
+color: blue;
+text-shadow: 1px 2px 3px;
+} 
+
